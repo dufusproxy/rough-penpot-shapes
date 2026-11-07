@@ -1,4 +1,5 @@
 import "./style.css";
+import "./components/rough-app.element";
 
 // get the current theme from the URL
 const searchParams = new URLSearchParams(window.location.search);
